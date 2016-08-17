@@ -27,3 +27,4 @@ int main()
 
     return 0;
 }
+//gcc  `pkg-config --libs --cflags glib-2.0 gthread-2.0` callback.c
